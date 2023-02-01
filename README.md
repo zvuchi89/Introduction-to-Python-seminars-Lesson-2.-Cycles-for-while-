@@ -1,5 +1,3 @@
-# Introduction-to-Python-seminars-Lesson-2.-Cycles-for-while-
-homework
 Знакомство с языком Python (семинары)
 Урок 2. Циклы (for, while)
 """
